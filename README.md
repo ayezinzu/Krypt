@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/t8IcpbN.png" />
 <br>
 
-<h2> Krypt is built using Web 3.0 methodologies, Solidity and Metamask </h2>
+<p> Krypt is built using Web 3.0 methodologies, Solidity and Metamask </p>
 <br>
-<h2> It helps you send crypto on ETH test net </h2>
+<p> It helps you send crypto on ETH test net </p>
 <br>
-<h2> Now everybody can a crypto millionaire, thanks to krypt ! </h2>
+<p> Now everybody can a crypto millionaire, thanks to krypt ! </p>
